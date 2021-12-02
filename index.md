@@ -7,7 +7,7 @@ layout: default
 ## 전자전기공학부
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[김상효 교수](./another-page.html).
+[Details](./another-page.html).
 ![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)
 
 There should be whitespace between paragraphs.
