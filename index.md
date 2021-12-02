@@ -9,7 +9,7 @@ layout: default
 
 ### 김상효
 
-![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg){: width="100" height="100"}  
+![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg){:width="100" height="100"}  
 
 [Details](./another-page.html).
 
