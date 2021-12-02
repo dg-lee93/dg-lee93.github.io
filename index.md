@@ -6,6 +6,8 @@ layout: default
 
 ## 전자전기공학부
 
+---
+
 ### 김상효 **교수 (부호이론)** 
 
 <img src="https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg" width="50%" height="50%">
