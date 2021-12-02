@@ -3,6 +3,7 @@ layout: default
 ---
 
 # 교수소개
+---
 
 ## 전자전기공학부
 
@@ -24,7 +25,7 @@ Wireless multi-terminal communications, D2D communications, LTE-A
 Signal design and secure communications.  
 Code design for distributed source/video coding연구키워드 (Research Keyword)  
 
-
+---
 ### 김용상 **교수 (유기소자 및 바이오센서)** 
 
 <img src="https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg" width="50%" height="50%">
