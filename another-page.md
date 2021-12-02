@@ -4,7 +4,7 @@ layout: default
 
 ## 김상효 교수
 
-<img src="https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg" width="40%" height="40%">
+<img src="https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg" width="60%" height="60%">
 
 전화: 031-299-4586  
 이메일: iamshkim@skku.edu  
