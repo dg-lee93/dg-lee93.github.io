@@ -9,7 +9,7 @@ layout: default
 
 ### 김상효
 
-![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg){:  width="100" height="100"}  
+![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg){: width="100" height="100"}  
 
 [Details](./another-page.html).
 
@@ -24,7 +24,7 @@ Modern coding theory: LDPC codes and polar codes Wireless multi-terminal
 
 ### 김용상
 
-![김용상 교수](https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg){:  width="100" height="100"}  
+![김용상 교수](https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg){: width="100" height="100"}  
 
 [Details](./another-page2.html).
 
