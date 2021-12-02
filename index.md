@@ -9,7 +9,7 @@ layout: default
 ### 김상효 **교수 (부호이론)** 
 
 ![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)  
-<img src="https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg" width="100%" height="100%">
+<img src="https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg" width="10%" height="10%">
 
 [Details](./another-page.html).
 
