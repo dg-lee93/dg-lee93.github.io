@@ -19,18 +19,18 @@ layout: default
 
 
 ## [관심분야]
-Modern coding theory: LDPC codes and polar codes Wireless multi-terminal
+Modern coding theory: LDPC codes and polar codes Wireless multi-terminal  
 
 ## [학력]
-(Ph.D.)School of ELectrical Engineering and Computer Science, Seoul National University (2004).
+(Ph.D.)School of ELectrical Engineering and Computer Science, Seoul National University (2004).  
 
 ## [약력/경력]
-Associate Professor, College of ICE, Sungkyunkwan Univ. (Since 2011)
-Assistant Professor, School of ICE, Sungkyunkwan Univ., (2007-2011)
-Visiting Scholar, Communication Science Institute, University of Southern California, (Sept. 2006-Aug. 2007)
-Senior Engineer, Telecommunications R&D Center, Samsung Electronics, (Mar. 2004-June 2006)
-Editor, Trans. on Emerging Telecommunications Technology (2013-)
-Editor, Journal of Communications and Networks (2013-)
+Associate Professor, College of ICE, Sungkyunkwan Univ. (Since 2011)  
+Assistant Professor, School of ICE, Sungkyunkwan Univ., (2007-2011)  
+Visiting Scholar, Communication Science Institute, University of Southern California, (Sept. 2006-Aug. 2007)  
+Senior Engineer, Telecommunications R&D Center, Samsung Electronics, (Mar. 2004-June 2006)  
+Editor, Trans. on Emerging Telecommunications Technology (2013-)  
+Editor, Journal of Communications and Networks (2013-)  
 
 ## [학술지 논문]
 (2020)  Structural Extension of Polar Codes via Simplex Kernels.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  12  
@@ -55,26 +55,26 @@ Editor, Journal of Communications and Networks (2013-)
 (2018)  Nonlinear energy-harvesting relaying with beamforming and hardware impairments in <it>-</it> shadowed fading environment.  TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.  29,  6  
 
 ## [특허/프로그램]
-Receiver and decoding method thereof.  US 2016/0373201 A1.  20200414.  미국
-METHOD FOR GENERATING A SEQUENCE FOR A POLA CODE AND MEDIUM THEREFOR AND METHOD AND APPARATUS FOR TRANSMITTING DATA USING THEREOF.  US 2018/0278268 A1.  20200211.  미국
-Method and device for encoding in wireless communication system.  US15/389344.  20191008.  미국
-Method and apparatus for device-to-device data communication.  US16/025/389.  20190827.  미국
-Apparatus and method for encoding with cyclic redundancy check and polar code.  US15/611,725.  20190723.  미국
-Method and device for transmitting or receiving location information.  US15/578,052.  20190528.  미국
-Method and apparatus for controlling interference in device-to-device communication.  US14/645,163.  20181204.  미국
-Apparatus and method for selecting D2D communication mode depending on signal interference.  US13/930,984.  20180828.  미국
-Method and apparatus for performing interleaving in communication system.  US14/932,837.  20180501.  미국
-Receiver and decoding method thereof.  US 15083546.  20170905.  미국
-Packet decoding method and apparatus.  US 14105930.  20170530.  미국
-Encoding apparatus and encoding method thereof.  US 14580514.  20170523.  미국
-Inter-link interference information sharing-based link scheduling method and apparatus for use in wireless communication system.  US 13968889.  20170509.  미국
-Interleaving and puncturing apparatus and method thereof.  US 14604138.  20170502.  미국
-Encoding method and apparatus using CRC code and polar code.  US 14106021.  20170418.  미국
-Method and apparatus for supporting multiple-access signal in mobile communication system.  US 14076051.  20160628.  미국
-ＭＩＭＯ 통신 시스템의 피드백 제어장치(FEEDBACK CONTROLLER FOR MIMO COMMUNICATION SYSYTEM).  10-1016720-0000.  20110215.  대한민국
-Apparatus and method for stopping iterative decoding in a mobile communication system.  11/593647.  20101005.  미국
-Method and apparatus for cancelling neighbor cell interference signals in an orthogonal frequency division multiple access system.  06025031.3.  20091014.  EU연합
-Method for controlling memory in mobile communication system.  11/649181.  20090908.  미국
+Receiver and decoding method thereof.  US 2016/0373201 A1.  20200414.  미국  
+METHOD FOR GENERATING A SEQUENCE FOR A POLA CODE AND MEDIUM THEREFOR AND METHOD AND APPARATUS FOR TRANSMITTING DATA USING THEREOF.  US 2018/0278268 A1.  20200211.  미국  
+Method and device for encoding in wireless communication system.  US15/389344.  20191008.  미국  
+Method and apparatus for device-to-device data communication.  US16/025/389.  20190827.  미국  
+Apparatus and method for encoding with cyclic redundancy check and polar code.  US15/611,725.  20190723.  미국  
+Method and device for transmitting or receiving location information.  US15/578,052.  20190528.  미국  
+Method and apparatus for controlling interference in device-to-device communication.  US14/645,163.  20181204.  미국  
+Apparatus and method for selecting D2D communication mode depending on signal interference.  US13/930,984.  20180828.  미국  
+Method and apparatus for performing interleaving in communication system.  US14/932,837.  20180501.  미국  
+Receiver and decoding method thereof.  US 15083546.  20170905.  미국  
+Packet decoding method and apparatus.  US 14105930.  20170530.  미국  
+Encoding apparatus and encoding method thereof.  US 14580514.  20170523.  미국  
+Inter-link interference information sharing-based link scheduling method and apparatus for use in wireless communication system.  US 13968889.  20170509.  미국  
+Interleaving and puncturing apparatus and method thereof.  US 14604138.  20170502.  미국  
+Encoding method and apparatus using CRC code and polar code.  US 14106021.  20170418.  미국  
+Method and apparatus for supporting multiple-access signal in mobile communication system.  US 14076051.  20160628.  미국  
+ＭＩＭＯ 통신 시스템의 피드백 제어장치(FEEDBACK CONTROLLER FOR MIMO COMMUNICATION SYSYTEM).  10-1016720-0000.  20110215.  대한민국  
+Apparatus and method for stopping iterative decoding in a mobile communication system.  11/593647.  20101005.  미국  
+Method and apparatus for cancelling neighbor cell interference signals in an orthogonal frequency division multiple access system.  06025031.3.  20091014.  EU연합  
+Method for controlling memory in mobile communication system.  11/649181.  20090908.  미국  
 
 
 [back](./)
