@@ -4,7 +4,7 @@ layout: default
 
 ## 김용상 교수
 
-<img src="https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg" width="40%" height="40%">
+<img src="https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg" width="60%" height="60%">
 
 전화: 031-299-4323  
 이메일: yongsang@skku.edu  
