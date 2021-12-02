@@ -9,7 +9,7 @@ layout: default
 
 ### 김상효
 
-[김상효 교수](.assets/img/picture_shkim.jpg)  
+[김상효 교수](https://github.com/dg-lee93/dg-lee93.github.io/blob/master/assets/img/picture_shkim.jpg)  
 
 [Details](./another-page.html).
 
