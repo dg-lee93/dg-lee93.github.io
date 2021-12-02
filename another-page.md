@@ -2,10 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-
-김상효 교수
+## 김상효 교수
 
 ![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)
 
