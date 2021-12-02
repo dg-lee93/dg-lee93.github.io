@@ -16,7 +16,7 @@ layout: default
 이메일: iamshkim@skku.edu  
 사무실: 제1공학관 23동 5층 23526호실  
 
-## [관심분야]
+#### [관심분야]
 Modern coding theory: LDPC codes and polar codes  
 Wireless multi-terminal communications, D2D communications, LTE-A  
 Signal design and secure communications.  
@@ -33,7 +33,7 @@ Code design for distributed source/video coding연구키워드 (Research Keyword
 이메일: yongsang@skku.edu  
 사무실: 제1공학관 23동 2층 23208호실  
 
-## [관심분야]
+#### [관심분야]
 Fabrication of oxide TFT and circuit design for OLED display panel 
 Analysis for degradation mechanism of LTPS TFT for display panel 
 Design and application of organic thin film transistors 
