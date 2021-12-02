@@ -2,9 +2,12 @@
 layout: default
 ---
 
+# 교수소개
+
+## 전자전기공학부
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[김상효 교수](./another-page.html).
 
 There should be whitespace between paragraphs.
 
