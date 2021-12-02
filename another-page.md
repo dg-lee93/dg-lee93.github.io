@@ -33,26 +33,26 @@ Editor, Trans. on Emerging Telecommunications Technology (2013-)
 Editor, Journal of Communications and Networks (2013-)
 
 ## [학술지 논문]
-(2020)  Structural Extension of Polar Codes via Simplex Kernels.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  12
-(2020)  New GRP LDPC Codes for H-ARQ-IR Over the Block Fading Channel.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  11
-(2020)  URLLC를 위한 짧은 길이 채널 부호의 성능 분석.  한국통신학회논문지.  45,  10
-(2020)  Analysis of Blind Frame Recognition and Synchronization Based on Sync Word Periodicity.  IEEE ACCESS.  8,  1
-(2020)  Multi-Round Belief Propagation Decoding With Impulsive Perturbation for Short LDPC Codes.  IEEE WIRELESS COMMUNICATIONS LETTERS.  9,  9
-(2020)  On Training Neural Network Decoders of Rate Compatible Polar Codes via Transfer Learning.  ENTROPY.  22,  5
-(2020)  Joint Source, Channel, and Space-Time Coding of Progressive Bitstream in MIMO Channels.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  4
-(2020)  The Optimal Distance Threshold for Fractional Frequency Reuse in Size-Scalable Networks.  IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.  56,  1
-(2019)  Rate Matching for Polar Codes Based on Binary Domination.  IEEE TRANSACTIONS ON COMMUNICATIONS.  67,  10
-(2019)  Protograph-Based Folded Spatially Coupled LDPC Codes for Burst Erasure Channels.  IEEE WIRELESS COMMUNICATIONS LETTERS.  8,  2
-(2019)  Uplink Time Scheduling With Power Level Modulation Scheme in Wireless Powered Communication Networks.  IEEE ACCESS.  7
-(2019)  Interference Alignment Schemes Using Latin Square for K x 3 MIMO X Channel.  IEEE ACCESS.  7
-(2018)  Study on Coverage of Full Frequency Reuse in FFR Systems Based on Outage Probability.  IEEE TRANSACTIONS ON COMMUNICATIONS.  66,  11
-(2018)  Spatially coupled LDPC codes for power line communications with impulsive noise.  IEICE ELECTRONICS EXPRESS.  15,  15
-(2018)  천공된 극 부호를 위한 딥 러닝 기반 복호기의 학습 방법.  한국통신학회논문지.  43,  7
-(2018)  SINBADLinQ: SINR based distributed link scheduling for device-to-device networks.  ELECTRONICS LETTERS.  54,  9
-(2018)  Trellis Tone Modulation Multiple-Access for Peer Discovery in D2D Networks.  SENSORS.  18,  4
-(2018)  Improving Windowed Decoding of SC LDPC Codes by Effective Decoding Termination, Message Reuse, and Amplification.  IEEE ACCESS.  6,  3
-(2018)  LLR-Based SC Decoding of Polar Codes for Two-User Binary-Input MAC.  IEEE COMMUNICATIONS LETTERS.  22,  2
-(2018)  Nonlinear energy-harvesting relaying with beamforming and hardware impairments in <it>-</it> shadowed fading environment.  TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.  29,  6
+(2020)  Structural Extension of Polar Codes via Simplex Kernels.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  12  
+(2020)  New GRP LDPC Codes for H-ARQ-IR Over the Block Fading Channel.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  11  
+(2020)  URLLC를 위한 짧은 길이 채널 부호의 성능 분석.  한국통신학회논문지.  45,  10  
+(2020)  Analysis of Blind Frame Recognition and Synchronization Based on Sync Word Periodicity.  IEEE ACCESS.  8,  1  
+(2020)  Multi-Round Belief Propagation Decoding With Impulsive Perturbation for Short LDPC Codes.  IEEE WIRELESS COMMUNICATIONS LETTERS.  9,  9  
+(2020)  On Training Neural Network Decoders of Rate Compatible Polar Codes via Transfer Learning.  ENTROPY.  22,  5  
+(2020)  Joint Source, Channel, and Space-Time Coding of Progressive Bitstream in MIMO Channels.  IEEE TRANSACTIONS ON COMMUNICATIONS.  68,  4  
+(2020)  The Optimal Distance Threshold for Fractional Frequency Reuse in Size-Scalable Networks.  IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.  56,  1  
+(2019)  Rate Matching for Polar Codes Based on Binary Domination.  IEEE TRANSACTIONS ON COMMUNICATIONS.  67,  10  
+(2019)  Protograph-Based Folded Spatially Coupled LDPC Codes for Burst Erasure Channels.  IEEE WIRELESS COMMUNICATIONS LETTERS.  8,  2  
+(2019)  Uplink Time Scheduling With Power Level Modulation Scheme in Wireless Powered Communication Networks.  IEEE ACCESS.  7  
+(2019)  Interference Alignment Schemes Using Latin Square for K x 3 MIMO X Channel.  IEEE ACCESS.  7  
+(2018)  Study on Coverage of Full Frequency Reuse in FFR Systems Based on Outage Probability.  IEEE TRANSACTIONS ON COMMUNICATIONS.  66,  11  
+(2018)  Spatially coupled LDPC codes for power line communications with impulsive noise.  IEICE ELECTRONICS EXPRESS.  15,  15  
+(2018)  천공된 극 부호를 위한 딥 러닝 기반 복호기의 학습 방법.  한국통신학회논문지.  43,  7  
+(2018)  SINBADLinQ: SINR based distributed link scheduling for device-to-device networks.  ELECTRONICS LETTERS.  54,  9  
+(2018)  Trellis Tone Modulation Multiple-Access for Peer Discovery in D2D Networks.  SENSORS.  18,  4  
+(2018)  Improving Windowed Decoding of SC LDPC Codes by Effective Decoding Termination, Message Reuse, and Amplification.  IEEE ACCESS.  6,  3  
+(2018)  LLR-Based SC Decoding of Polar Codes for Two-User Binary-Input MAC.  IEEE COMMUNICATIONS LETTERS.  22,  2  
+(2018)  Nonlinear energy-harvesting relaying with beamforming and hardware impairments in <it>-</it> shadowed fading environment.  TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES.  29,  6  
 
 ## [특허/프로그램]
 Receiver and decoding method thereof.  US 2016/0373201 A1.  20200414.  미국
