@@ -23,11 +23,11 @@ Electrochemical sensor
 (Ph.D.) (Electrical Eng.), Seoul National University, Mar. 1990 - Aug. 1994.
 
 ## [약력/경력]
-Professor, School of Electronic and Electrical Engineering, Sungkyunkwan University, March, 2013~  
-Distinguished Visiting Professor, Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, China, 2010~  
-Professor, Dept. of Electrical Engineering, Myongji University (Korea), 1995 ~ 2013   
-Director, Nano-Bio Research Center at Myongji University, 2006 ~ 2013   
-Director, BK21 Development of Advanced Materials for Nanostructure Construction, 2006 ~ 2013   
-Director, Nano Electronics and System Lab., National Research Lab. (NRL), 2006~2012  
-Visiting Professor, East China University of Science and Technology, Shanghai, China, 2009~2010  
-Visiting Associate Researcher, Univ. of California at Berkeley (USA), 1999 ~ 2001  
+Professor, School of Electronic and Electrical Engineering, Sungkyunkwan University, March, 2013-  
+Distinguished Visiting Professor, Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, China, 2010-  
+Professor, Dept. of Electrical Engineering, Myongji University (Korea), 1995-2013   
+Director, Nano-Bio Research Center at Myongji University, 2006-2013   
+Director, BK21 Development of Advanced Materials for Nanostructure Construction, 2006-2013   
+Director, Nano Electronics and System Lab., National Research Lab. (NRL), 2006-2012  
+Visiting Professor, East China University of Science and Technology, Shanghai, China, 2009-2010  
+Visiting Associate Researcher, Univ. of California at Berkeley (USA), 1999-2001  
