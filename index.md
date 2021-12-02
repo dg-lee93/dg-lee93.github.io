@@ -5,7 +5,7 @@ layout: default
 # 교수소개
 
 ## 전자전기공학부
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**교수 (부호이론)** 
 
 [Details](./another-page.html).
 ![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)
