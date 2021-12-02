@@ -13,9 +13,12 @@ layout: default
 
 [Details](./another-page.html).
 
-There should be whitespace between paragraphs.
+전화: 031-299-4586  
+이메일: iamshkim@skku.edu  
+사무실: 제1공학관 23동 5층 23526호실  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## [관심분야]
+Modern coding theory: LDPC codes and polar codes Wireless multi-terminal  
 
 # Header 1
 
