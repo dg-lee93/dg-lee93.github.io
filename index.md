@@ -5,9 +5,8 @@ layout: default
 # 교수소개
 
 ## 전자전기공학부
-**교수 (부호이론)** 
 
-### 김상효
+### 김상효 **교수 (부호이론)** 
 
 ![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)  
 
@@ -23,9 +22,8 @@ Wireless multi-terminal communications, D2D communications, LTE-A
 Signal design and secure communications.  
 Code design for distributed source/video coding연구키워드 (Research Keyword)  
 
-**교수 (유기소자 및 바이오센서)** 
 
-### 김용상
+### 김용상 **교수 (유기소자 및 바이오센서)** 
 
 ![김용상 교수](https://ice.skku.edu/_attach/professor/QYhHrWCPFVHwXZclTtNj.jpg)    
 
