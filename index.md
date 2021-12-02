@@ -9,7 +9,7 @@ layout: default
 
 ### 김상효
 
-[김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)  
+![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)  
 
 [Details](./another-page.html).
 
