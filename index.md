@@ -9,8 +9,9 @@ layout: default
 
 ### 김상효
 
+![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)  
+
 [Details](./another-page.html).
-![김상효 교수](https://ice.skku.edu/_attach/professor/EGcvfBppaXBFCkuRshkm.jpg)
 
 There should be whitespace between paragraphs.
 
