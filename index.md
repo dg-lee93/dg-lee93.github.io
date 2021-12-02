@@ -18,7 +18,10 @@ layout: default
 사무실: 제1공학관 23동 5층 23526호실  
 
 ## [관심분야]
-Modern coding theory: LDPC codes and polar codes Wireless multi-terminal  
+Modern coding theory: LDPC codes and polar codes  
+Wireless multi-terminal communications, D2D communications, LTE-A  
+Signal design and secure communications.  
+Code design for distributed source/video coding연구키워드 (Research Keyword)  
 
 **교수 (유기소자 및 바이오센서)** 
 
